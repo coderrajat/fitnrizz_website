@@ -4,9 +4,9 @@
   "description": "FitnRizz - Gamified Wellness Tracker & Territory Progress Static Website",
   "main": "index.html",
   "scripts": {
-    "start": "npx serve -l 3002 .",
-    "dev": "npx serve -l 3002 .",
-    "serve": "python3 -m http.server 3002"
+    "start": "npx serve -l 3000 .",
+    "dev": "npx serve -l 3000 .",
+    "serve": "python3 -m http.server 3000"
   },
   "keywords": [
     "fitnrizz",
